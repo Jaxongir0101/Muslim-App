@@ -1,8 +1,5 @@
 import 'package:compas/router/app_router.dart';
 import 'package:flutter/material.dart';
-import 'package:geolocator/geolocator.dart';
-
-import 'presentation/pages/home/home_page.dart';
 
 void main() {
   runApp(const MyApp());
